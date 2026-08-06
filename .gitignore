@@ -54,6 +54,8 @@ rsconnect/
 **/Graficas/**
 **/Resultados/**
 
+desktop.ini
+
 # Conservar los archivos .gitkeep
 !**/Graficas/.gitkeep
 !**/Resultados/.gitkeep
