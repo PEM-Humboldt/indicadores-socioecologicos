@@ -50,13 +50,7 @@ rsconnect/
 
 # input and output folders content
 
-# Ignorar el contenido de cualquier carpeta llamada Graficas o Resultados
-**/Graficas/**
-**/Resultados/**
+
 
 desktop.ini
 
-# Conservar los archivos .gitkeep
-!**/.gitkeep
-!**/Graficas/.gitkeep
-!**/Resultados/.gitkeep
