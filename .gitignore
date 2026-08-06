@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# input and output folders content
+
+# Ignorar el contenido de cualquier carpeta llamada Graficas o Resultados
+**/Graficas/**
+**/Resultados/**
+
+# Conservar los archivos .gitkeep
+!**/Graficas/.gitkeep
+!**/Resultados/.gitkeep
