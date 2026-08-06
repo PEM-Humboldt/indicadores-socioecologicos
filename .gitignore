@@ -58,3 +58,5 @@ desktop.ini
 
 # Conservar los archivos .gitkeep
 !**/.gitkeep
+!**/Graficas/.gitkeep
+!**/Resultados/.gitkeep
